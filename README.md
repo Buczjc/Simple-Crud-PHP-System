@@ -5,6 +5,8 @@ This is a beginner-friendly CRUD (Create, Read, Update, Delete) web application 
 ![screenshot-of-index-page](https://github.com/user-attachments/assets/11ff9193-5d0c-43c1-b57a-81fcda5c9893)
 ![screenshot-of-update-data-page](https://github.com/user-attachments/assets/acb06ad4-d9cb-4ecb-bce8-7de9ce2deb29)
 ![screenshot-of-delete-data-page](https://github.com/user-attachments/assets/c1b22815-420a-4332-9634-f8690f88ca32)
+![screenshot-of-database-structure-xampp](https://github.com/user-attachments/assets/4e5f900e-2083-4068-8d9e-75a60254c17b)
+
 
 
 ---
