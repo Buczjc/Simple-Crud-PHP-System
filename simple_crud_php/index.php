@@ -15,7 +15,7 @@ include 'includes/dbconnection.php';
     <main>
         <div class="container">
             <h1>Simple CRUD Program</h1>
-            <p>By: Bucz</p>
+            <p>By: KinoEsports</p>
             <table>
                 <tr>
                     <th>User ID</th>
